@@ -1,2 +1,2 @@
 # web-application-front-page
-3-D view of the 
+3-D view of the front page
